@@ -2,5 +2,19 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <title>Tuck</title>
+        <item>
+            <title>1.0.1</title>
+            <pubDate>Thu, 12 Nov 2026 18:35:39 -0500</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<h3>What's new in Tuck 1.0.1</h3><ul>
+<li>Check for Updates in the menu bar menu and in Settings</li>
+<li>Updates are signed and checked once a day</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/ranbd4/tuck-updates/releases/download/v1.0.1/Tuck_1.0.1.dmg" length="1634809" type="application/octet-stream" sparkle:edSignature="5g8Qu9crU7AbEwd3hy1BCW2U73WPYK1SOj7hv6bC05zL/r6kWegSsnZ3hvMeg4TGpiu8FXBl1aB6TdupV/P5Aw=="/>
+        </item>
     </channel>
 </rss>
