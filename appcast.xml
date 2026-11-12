@@ -3,6 +3,19 @@
     <channel>
         <title>Tuck</title>
         <item>
+            <title>1.0.3</title>
+            <pubDate>Thu, 12 Nov 2026 18:56:35 -0500</pubDate>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>1.0.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<h3>What's new in Tuck 1.0.3</h3><ul>
+<li>Tuck now opens automatically when you log in (turn it off in Settings › General)</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/ranbd4/tuck-updates/releases/download/v1.0.3/Tuck_1.0.3.dmg" length="1658669" type="application/octet-stream" sparkle:edSignature="4xgBqV0wmGMWr9LmYW3e1Jx9ZQijNifHPGBRKMBnpnv/ppp2/h201aSyIU/Jv99MjT6Hm2O6rajSfH+VRdUcDQ=="/>
+        </item>
+        <item>
             <title>1.0.2</title>
             <pubDate>Thu, 12 Nov 2026 18:54:19 -0500</pubDate>
             <sparkle:version>3</sparkle:version>
