@@ -3,6 +3,24 @@
     <channel>
         <title>Tuck</title>
         <item>
+            <title>1.1.0</title>
+            <pubDate>Thu, 19 Nov 2026 00:15:41 -0500</pubDate>
+            <sparkle:version>6</sparkle:version>
+            <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<h3>What's new in Tuck 1.1.0</h3><ul>
+<li>Saved collections: press ⌘S on a clip to keep it forever in a named collection, like your addresses. Saved clips survive Clear History.</li>
+<li>Filters: show only pinned clips, text, links, images, files or one of your collections. Press Tab to switch.</li>
+<li>Select several clips with ⇧↑↓ or ⌘-click to pin, hide, save or delete them together.</li>
+<li>Paste Stack: select several clips and press ↩, and each ⌘V pastes the next one. Press ⌥↩ to paste them all at once.</li>
+<li>Clear Recent in the menu bar deletes what you copied in the last few minutes, and clears the clipboard if it still holds it.</li>
+<li>Redesigned Settings with a sidebar, plain explanations for every option, and an Auto-Paste on/off switch.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/ranbd4/tuck-updates/releases/download/v1.1.0/Tuck_1.1.0.dmg" length="2449645" type="application/octet-stream" sparkle:edSignature="CHhnTyo8Vh1S4p1NIUT2XBYFHEdoSz9pnXPNT/fHfvYI1JVpdnk+BxAbrlVKuXrJSjioilzvxtLFRA2GXBbJCA=="/>
+        </item>
+        <item>
             <title>1.0.4</title>
             <pubDate>Thu, 12 Nov 2026 19:17:12 -0500</pubDate>
             <sparkle:version>5</sparkle:version>
@@ -28,21 +46,6 @@
 </ul>
 ]]></description>
             <enclosure url="https://github.com/ranbd4/tuck-updates/releases/download/v1.0.3/Tuck_1.0.3.dmg" length="1658669" type="application/octet-stream" sparkle:edSignature="4xgBqV0wmGMWr9LmYW3e1Jx9ZQijNifHPGBRKMBnpnv/ppp2/h201aSyIU/Jv99MjT6Hm2O6rajSfH+VRdUcDQ=="/>
-        </item>
-        <item>
-            <title>1.0.2</title>
-            <pubDate>Thu, 12 Nov 2026 18:54:19 -0500</pubDate>
-            <sparkle:version>3</sparkle:version>
-            <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description><![CDATA[<h3>What's new in Tuck 1.0.2</h3><ul>
-<li>Choose per kind of sensitive text: Don’t Save, Save Hidden, or Save</li>
-<li>Hidden clips show as dots in the menu and panel; press ⌘L to hide any clip</li>
-<li>Password apps can now be removed from Ignored Apps</li>
-</ul>
-]]></description>
-            <enclosure url="https://github.com/ranbd4/tuck-updates/releases/download/v1.0.2/Tuck_1.0.2.dmg" length="1653751" type="application/octet-stream" sparkle:edSignature="zL2LpcvA++eAk96+j9YY3GsVgIVm/bVU52MTR2NcZvihYXaF1r+SRqgkGIr9xiXhfq3G/vKhWMN55dn3q8p5AQ=="/>
         </item>
     </channel>
 </rss>
